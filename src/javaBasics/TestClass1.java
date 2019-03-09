@@ -1,4 +1,4 @@
-package package1;
+package javaBasics;
 
 public class TestClass1 {
 
