@@ -1,4 +1,4 @@
-package javaLearning;
+package javaBasics;
 
 public class TwoDimensionalArray {
 
