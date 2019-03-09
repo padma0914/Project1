@@ -1,4 +1,4 @@
-package javaBasics;
+package oopsconceptspart1;
 
 public class TestClass1 {
 
@@ -6,7 +6,7 @@ public class TestClass1 {
 
 		System.out.println("blah blah blah");
 	
-		System.out.println("blah blah blah111");
+		System.out.println("blah");
 	}
 
 }
