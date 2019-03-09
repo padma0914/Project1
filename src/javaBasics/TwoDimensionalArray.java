@@ -34,7 +34,7 @@ public class TwoDimensionalArray {
 		s[3][2]="Rr";
 		s[3][3]="Ss";
 		s[3][4]="Tt";
-		s[3][4]="";
+		
 				
 		//System.out.println(s.length);
 	//System.out.println(s[0].length);
